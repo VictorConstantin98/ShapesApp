@@ -1,0 +1,15 @@
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\bin\Debug\net6.0\ShapesApp.exe
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\bin\Debug\net6.0\ShapesApp.deps.json
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\bin\Debug\net6.0\ShapesApp.runtimeconfig.json
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\bin\Debug\net6.0\ShapesApp.dll
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\bin\Debug\net6.0\ref\ShapesApp.dll
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\bin\Debug\net6.0\ShapesApp.pdb
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\obj\Debug\net6.0\ShapesApp.csproj.AssemblyReference.cache
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\obj\Debug\net6.0\ShapesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\obj\Debug\net6.0\ShapesApp.AssemblyInfoInputs.cache
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\obj\Debug\net6.0\ShapesApp.AssemblyInfo.cs
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\obj\Debug\net6.0\ShapesApp.csproj.CoreCompileInputs.cache
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\obj\Debug\net6.0\ShapesApp.dll
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\obj\Debug\net6.0\ref\ShapesApp.dll
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\obj\Debug\net6.0\ShapesApp.pdb
+C:\Users\Costi\source\repos\ShapesApp\ShapesApp\obj\Debug\net6.0\ShapesApp.genruntimeconfig.cache
